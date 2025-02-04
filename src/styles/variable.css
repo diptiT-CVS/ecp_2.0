@@ -1,0 +1,18 @@
+/* Colors */
+
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --primary: #cc0000;
+  --primary-80: rgba(204, 0, 0, 0.8);
+  --primary-60: rgba(204, 0, 0, 0.6);
+  --primary-40: rgba(204, 0, 0, 0.4);
+  --primary-20: rgba(204, 0, 0, 0.2);
+
+  --secondary: #031d1f;
+  --secondary-80: rgba(3, 29, 31, 0.8);
+  --secondary-60: rgba(3, 29, 31, 0.6);
+  --secondary-40: rgba(3, 29, 31, 0.4);
+  --secondary-20: rgba(3, 29, 31, 0.2);
+}

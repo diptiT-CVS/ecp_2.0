@@ -1,0 +1,866 @@
+[
+    {
+        "hostname": "APP-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "CMN-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "IFA-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "OLTP-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "WEB-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "IFW-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "INA-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "INDB-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "INW-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa3a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa3b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa3c",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa3d",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa3e",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "DATAPCorp-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "DATAPStore-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxadpa3a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "CLOG-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxodpa3a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "p9_rri1rxcfpa14-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "p9_rri1rxcfpa14-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "p9_rri1rxcfpa15-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "p9_rri1rxcfpa15-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa12-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa12-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa13-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa13-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa16-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa16-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa17-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa17-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa18-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa18-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa19-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa19-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa20-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa20-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa21-vio1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa21-vio2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl10v-rri1rxdupl17v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp10v-rri1roewpp29v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp10v-rri1rotwpp17v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwspl14v-rri1rxwspl21v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxadpa3b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "ACDB-Tier",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "ACWB-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxbtpa51-rri1rxbtpa53",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "CADM-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa2a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa2b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa2c",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa2d",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdbpa2e",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "EMH-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "IFM-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "IVR-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "MQ-Tier",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "RI-F14-P9-CM46-9080M9S-06402F7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "RI-F15-P9-CL42-9080-M9S-063FDB7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxvdpa1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxacpa2a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxacpa2b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa53",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa54",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa55",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa56",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa57",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa58",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa59",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa60",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa61",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa62",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa63",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa64",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa65",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa66",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa67",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa68",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxappa69",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxawpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxawpa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxbkpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxbkpa6",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxbtpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxbtpa51",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "rri1rxbtpa52",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "rri1rxbtpa53",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "rri1rxcapa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcapa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa11-9080M9S-2D9C8-CL46",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa12-CM42-9080M9S-24B68",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa13-CS42-9080M9S-2D9D8",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa16-CK42-9080MHE-403C7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa7-770MMD-06403A7-CK42",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa8-770MMD-063FDD7-CH46",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa19-CH46-9080MHE-3FDE7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa20-CK46-9080M9S-24B88",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcfpa21-CI46-9080MHE-09FE8",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxclpa2a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxclpa2b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa53",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa54",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxcmpa55",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl1",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl3",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl4",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl5",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl6",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdppl8",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfapa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfapa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfapa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfapa53",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "rri1rxfapa54",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfapa55",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfmpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfmpa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfmpa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfwpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfwpa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxfwpa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxmdpa2",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxmqpa2a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxmqpa2b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnapa7",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnapa8",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnapa9",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxndpa3a",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxndpa3b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnwpa4",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnwpa5",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxnwpa6",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxodpa3b",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxsvpa60",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxsvpa61",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa50",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa51",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa52",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa53",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa54",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa55",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwbpa56",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl13v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl14v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl15v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl16v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxdupl17v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roempp10v-rri1roempp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roeipp10v-rri1roeipp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "RRI1RXWSPL10V",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "RRI1RXWSPL11V",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotmpp10v-rri1rotmpp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "paz1esxpl1116.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "paz1esxpl1225.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl428.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl429.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl430.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl431.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl432.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl433.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl496.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roeipp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roeipp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roempp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roempp11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roempp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp13v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp14v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp15v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp16v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp17v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp18v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp19v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp20v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp21v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp22v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp23v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp24v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp25v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp26v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp27v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp28v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1roewpp29v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotipp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotipp11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotipp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotmpp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotmpp11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotmpp12v",
+        "headroom_indicator": "yellow"
+    },
+    {
+        "hostname": "rri1rotwpp10v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp11v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp12v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp13v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp14v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp15v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp16v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rotwpp17v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwspl14v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1rxwspl15v",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri1esxpl549.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri2esxpl550.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    },
+    {
+        "hostname": "rri2esxpl551.corp.cvscaremark.com",
+        "headroom_indicator": "green"
+    }
+]
